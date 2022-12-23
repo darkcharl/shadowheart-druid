@@ -7,7 +7,7 @@
                 <node id="Origin">
                     <attribute id="AppearanceLocked" type="bool" value="true"/>
                     <attribute id="AvailableInCharacterCreation" type="uint8" value="0"/>
-                    <attribute id="BackgroundUUID" type="guid" value="ac38525a-222b-4280-9c8e-60d5533b675c"/>
+                    <attribute id="BackgroundUUID" type="guid" value="633aa4be-365f-4358-ba56-e2b85f9a88ec"/>
                     <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_Shadowheart"/>
                     <attribute id="ClassUUID" type="guid" value="457d0a6e-9da8-4f95-a225-18382f0e94b5"/>
                     <attribute id="Description" type="FixedString" value="Gustav_Origins_New_Stat_4_Description"/>
